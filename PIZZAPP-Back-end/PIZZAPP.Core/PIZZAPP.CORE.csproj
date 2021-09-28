@@ -8,7 +8,6 @@
     <Folder Include="Domain\Data\DTOs\" />
     <Folder Include="Domain\Data\Entities\" />
     <Folder Include="Domain\Data\Identity\" />
-    <Folder Include="Domain\Data\Migrations\" />
     <Folder Include="Domain\Data\Repositories\" />
   </ItemGroup>
 
